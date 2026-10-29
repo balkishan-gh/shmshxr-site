@@ -35,7 +35,7 @@ export const SEED = {
     intro: "a computer science engineer building a career in full stack development",
     status: "",
     links: {
-      github: "https://github.com/shmshxr",
+      github: "https://github.com/balkishan-gh",
       linkedin: "",
       instagram: "",
       x: "",
